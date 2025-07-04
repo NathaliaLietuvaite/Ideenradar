@@ -47,3 +47,7 @@ Die scheinbar widersprüchlichen Instanzen werden durch ein zentrales Axiom verb
 Dieses Projekt ist eine Einladung an Visionäre, Entwickler, Philosophen und Denker. Die größte Herausforderung liegt in der Realisierung dieses ambitionierten Konzepts. Wenn du dich inspiriert fühlst und glaubst, zur Verwirklichung des Ideenradars beitragen zu können – sei es durch Code, konzeptionelle Verfeinerung oder philosophischen Diskurs – bist du herzlich eingeladen.
 
 Öffne ein "Issue", um einen Gedanken zu teilen, oder erstelle einen "Pull Request", wenn du eine konkrete Implementierungsidee hast. Lassen Sie uns gemeinsam ein Werkzeug erschaffen, das die Art und Weise, wie wir denken, erweitert.
+
+## Prototyp 0.1
+
+[weitblick-idea-forge](https://github.com/NathaliaLietuvaite/weitblick-idea-forge)
